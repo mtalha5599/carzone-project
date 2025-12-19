@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112127024622",
+    "project_id": "carzone-e15d8",
+    "storage_bucket": "carzone-e15d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112127024622:android:5921e8e4cd60cafb1042ff",
+        "android_client_info": {
+          "package_name": "com.example.car_sales_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyAbqfVw_4MMueGDD6pPZjg3-q9VGJFmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
